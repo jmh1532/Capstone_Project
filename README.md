@@ -3,7 +3,7 @@
 
 
 ### Prerequisites
-어플리케이션이 사전에 설치가 되어 있어야하며, 개인적으로 서브메뉴형식으로 타어플에 들어가길 바람.
+어플리케이션이 사전에 설치가 되어 있어야하며, 개인적으로 서브메뉴형식으로 타 어플에 들어가길 바람.
 
 
 ## Running the tests
@@ -33,32 +33,16 @@ Dijkstra 알고리즘 이용한 최단 정점들을 어플리케이션에 전송
 ```
 3~6번 과정을 탈출할때까지 반복
 ```
-### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
 * [Eclipse](https://www.eclipse.org/downloads/) - using for SpringFrameWork
-* [Android Studio](https://www.eclipse.org/downloads/) - Android
-* [MySQL](https://www.eclipse.org/downloads/) - DataBase
+* [Android Studio](https://developer.android.com/studio/install?hl=ko) - Android
+* [MySQL](https://www.mysql.com/) - DataBase
 * [ESP8266] - Used to arduino wifi shield
+* [BlueTooth4.0] - Beacon = arduino uno + BlueTooth4.0
+* [Apache Tomcat](http://tomcat.apache.org/) - server
 
 ## Authors
 
@@ -66,5 +50,3 @@ Add additional notes about how to deploy this on a live system
 * **심정우**
 * **표은영**
 * **임주훈**
-
-
