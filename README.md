@@ -1,3 +1,4 @@
+![title](https://user-images.githubusercontent.com/33171227/61588500-b127ba80-abd7-11e9-87b9-cf6b4bd78a2f.png)
 # Safe Fire Exit(Capstone Design)
 건물 안에 화재가 발생했을 시, 사람들로 인한 혼잡도와 화재위치를 고려하여 가장 빠른 탈출 경로를 안내하는 어플을 기획. 
 
@@ -7,6 +8,7 @@
 
 
 ## Running the tests
+![구성](https://user-images.githubusercontent.com/33171227/61588505-c69ce480-abd7-11e9-9099-88464a35d19a.png)
 
 1. 아두이노 불꽃센서와 온도감지센서를 통한 화재감지(아두이노)
 ```
@@ -33,7 +35,10 @@ Dijkstra 알고리즘 이용한 최단 정점들을 어플리케이션에 전송
 ```
 3~6번 과정을 탈출할때까지 반복
 ```
+## Screen shot
+![webUI](https://user-images.githubusercontent.com/33171227/61588515-e0d6c280-abd7-11e9-9100-9943f847970b.png)
 
+![result](https://user-images.githubusercontent.com/33171227/61588527-05cb3580-abd8-11e9-95fd-7216d41ef56d.png)
 
 ## Built With
 
